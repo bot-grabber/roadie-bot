@@ -1,5 +1,5 @@
 # Roadie Bot
-Roadie Bot is an mobile app that auto-claims roadie deliveries on the drivers behalf on auto-pilot. Watch the video demo of it in action here:
+The Roadie Bot is a mobile app that auto-claims roadie deliveries on the drivers behalf on auto-pilot. Watch the video demo of it in action here:
 
 Download the bot from: [BotGrabber.com](http://BotGrabber.com)
 
