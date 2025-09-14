@@ -12,9 +12,4 @@ The **Roadie Bot app** is a powerful automation tool designed for drivers who wa
 
 ## Watch the Demo  
 🎥 See Roadie Bot in action:  
-[![Roadie Bot](https://img.youtube.com/vi/YFNDZXOF_Ro/maxresdefault.jpg)](https://www.youtube.com/watch?v=YFNDZXOF_Ro)  
-
----  
-
-### About Roadie Bot  
-Roadie Bot is an automation app built specifically for Roadie drivers. It helps you claim more deliveries, work smarter, and stay ahead of the competition. Whether you’re looking to maximize your daily income or simply save time, Roadie Bot puts your deliveries on autopilot.  
+[![Roadie Bot](https://img.youtube.com/vi/YFNDZXOF_Ro/maxresdefault.jpg)](https://www.youtube.com/watch?v=YFNDZXOF_Ro)
